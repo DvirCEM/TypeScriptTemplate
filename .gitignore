@@ -1,1 +1,4 @@
+bin
+obj
+database.sqlite
 *.js

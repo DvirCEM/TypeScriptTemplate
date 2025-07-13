@@ -2,4 +2,4 @@ files:
 - .vscode/settings.json
 - .vscode/tasks.json
 - .gitignore
-- .tsconfig.json
+- tsconfig.json
